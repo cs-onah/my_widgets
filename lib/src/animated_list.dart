@@ -51,6 +51,7 @@ class SlideAnimatedList extends StatelessWidget {
     return Container(
       color: backgroundColor,
       child: ListView.builder(
+        shrinkWrap: true,
         itemCount: itemLength,
         itemBuilder: (_, index) {
           final newDelegate = delegate;
