@@ -1,7 +1,7 @@
 name: my_widgets
 description: Custom widgets written by Ebuka__ to speed up development
 version: 0.0.1
-homepage:
+homepage: https://github.com/cs-onah/my_widgets.git
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
