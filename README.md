@@ -19,9 +19,11 @@ The list animation can be customized using the ```curve```, ```duration```, and 
 ## Navigation
 ### ScopedNavigator
 Wraps flutter ```Navigator```. The ScopedNavigator provides a view within which you can navigate to other routes. This imitates the iOS navigation bar style.
+
 <p align="center">
   <img width="480" height="381.6" src="https://github.com/cs-onah/my_widgets/tree/main/lib/doc/scoped_navigation.gif">
 </p>
+
 ```dart
 /// create navigator key
 final customNavigatorKey = GlobalKey<NavigatorState>();
