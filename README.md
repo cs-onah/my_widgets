@@ -2,6 +2,13 @@
 
 Description: Custom widgets written by Ebuka__ to speed up development
 
+usage:
+```yaml
+  my_widgets:
+    git:
+      url: https://github.com/cs-onah/my_widgets.git
+```
+
 ## Animations
 ### SlideAnimatedList
 
