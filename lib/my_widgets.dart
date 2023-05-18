@@ -6,8 +6,8 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 import 'dart:io';
 
-part 'src/animated_list.dart';
-part 'src/flip_animation.dart';
-part 'src/slide_opacity_transition.dart';
-part 'src/responsiveness.dart';
+part 'src/animations/animated_list.dart';
+part 'src/animations/flip_animation.dart';
+part 'src/animations/slide_opacity_transition.dart';
+part 'src/responsiveness/responsiveness.dart';
 
