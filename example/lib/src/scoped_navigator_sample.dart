@@ -16,6 +16,7 @@ class _ScopedNavigatorSampleState extends State<ScopedNavigatorSample> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(title: Text("Scoped Animation")),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _page,
         onTap: (newPage) => setState(() => _page = newPage),
