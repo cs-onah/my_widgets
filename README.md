@@ -13,7 +13,7 @@ The list animation can be customized using the ```curve```, ```duration```, and 
 * ```waitInterval``` : Duration in milliseconds between subsequent items start animation
 
 <p align="center">
-  <img width="480" height="381.6" src="https://github.com/cs-onah/my_widgets/tree/main/lib/doc/animated_list.gif">
+  <img width="480" height="381.6" src="https://github.com/cs-onah/my_widgets/blob/main/docs/animated_list.gif">
 </p>
 
 ## Navigation
@@ -21,7 +21,7 @@ The list animation can be customized using the ```curve```, ```duration```, and 
 Wraps flutter ```Navigator```. The ScopedNavigator provides a view within which you can navigate to other routes. This imitates the iOS navigation bar style.
 
 <p align="center">
-  <img width="480" height="381.6" src="https://github.com/cs-onah/my_widgets/tree/main/lib/doc/scoped_navigation.gif">
+  <img width="480" height="381.6" src="https://github.com/cs-onah/my_widgets/blob/main/docs/scoped_navigation.gif">
 </p>
 
 ```dart
